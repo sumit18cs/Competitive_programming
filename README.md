@@ -1,8 +1,5 @@
 # Competitive_Programming   
 
-## topic name
-- [dsdfs](hj)
-
 ## Stack
 - https://codeforces.com/contest/926/problem/E		
 
