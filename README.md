@@ -95,10 +95,4 @@
 - https://codeforces.com/contest/863/problem/E			
 
 ## Greedy : Hard	
-- https://codeforces.com/contest/1141/problem/F2			
-
-
-# LeetCode
-## Backtracking
-- https://leetcode.com/problems/unique-paths-iii/
-- 
+- https://codeforces.com/contest/1141/problem/F2		
